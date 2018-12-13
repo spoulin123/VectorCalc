@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D800C39221BEF22B009B70F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D800C39121BEF22B009B70F4 /* AppDelegate.swift */; };
-		D800C39421BEF22B009B70F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D800C39321BEF22B009B70F4 /* ViewController.swift */; };
-		D800C39721BEF22B009B70F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D800C39521BEF22B009B70F4 /* Main.storyboard */; };
-		D800C39921BEF22C009B70F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D800C39821BEF22C009B70F4 /* Assets.xcassets */; };
-		D800C39C21BEF22C009B70F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D800C39A21BEF22C009B70F4 /* LaunchScreen.storyboard */; };
-		D8EB877721C15D7B008960A8 /* Vector.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EB877621C15D7B008960A8 /* Vector.swift */; };
-		D8EB877921C166FB008960A8 /* VectorTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EB877821C166FB008960A8 /* VectorTableViewCell.swift */; };
+		65C94EF321C2D33700B6ED2C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C94EF221C2D33700B6ED2C /* AppDelegate.swift */; };
+		65C94EF521C2D33700B6ED2C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C94EF421C2D33700B6ED2C /* ViewController.swift */; };
+		65C94EF821C2D33700B6ED2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65C94EF621C2D33700B6ED2C /* Main.storyboard */; };
+		65C94EFA21C2D33800B6ED2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65C94EF921C2D33800B6ED2C /* Assets.xcassets */; };
+		65C94EFD21C2D33800B6ED2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65C94EFB21C2D33800B6ED2C /* LaunchScreen.storyboard */; };
+		65C94F0521C2D38500B6ED2C /* VectorTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C94F0421C2D38500B6ED2C /* VectorTableViewCell.swift */; };
+		65C94F0721C2D3AD00B6ED2C /* Vector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C94F0621C2D3AD00B6ED2C /* Vector.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D800C38E21BEF22B009B70F4 /* VectorCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VectorCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D800C39121BEF22B009B70F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D800C39321BEF22B009B70F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D800C39621BEF22B009B70F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D800C39821BEF22C009B70F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D800C39B21BEF22C009B70F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D800C39D21BEF22C009B70F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D8EB877621C15D7B008960A8 /* Vector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vector.swift; sourceTree = "<group>"; };
-		D8EB877821C166FB008960A8 /* VectorTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VectorTableViewCell.swift; sourceTree = "<group>"; };
+		65C94EEF21C2D33700B6ED2C /* VectorCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VectorCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		65C94EF221C2D33700B6ED2C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		65C94EF421C2D33700B6ED2C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		65C94EF721C2D33700B6ED2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		65C94EF921C2D33800B6ED2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		65C94EFC21C2D33800B6ED2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		65C94EFE21C2D33800B6ED2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65C94F0421C2D38500B6ED2C /* VectorTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VectorTableViewCell.swift; sourceTree = "<group>"; };
+		65C94F0621C2D3AD00B6ED2C /* Vector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vector.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D800C38B21BEF22B009B70F4 /* Frameworks */ = {
+		65C94EEC21C2D33700B6ED2C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D800C38521BEF22B009B70F4 = {
+		65C94EE621C2D33700B6ED2C = {
 			isa = PBXGroup;
 			children = (
-				D800C39021BEF22B009B70F4 /* VectorCalc */,
-				D800C38F21BEF22B009B70F4 /* Products */,
+				65C94EF121C2D33700B6ED2C /* VectorCalculator */,
+				65C94EF021C2D33700B6ED2C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D800C38F21BEF22B009B70F4 /* Products */ = {
+		65C94EF021C2D33700B6ED2C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D800C38E21BEF22B009B70F4 /* VectorCalc.app */,
+				65C94EEF21C2D33700B6ED2C /* VectorCalculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D800C39021BEF22B009B70F4 /* VectorCalc */ = {
+		65C94EF121C2D33700B6ED2C /* VectorCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				D800C39121BEF22B009B70F4 /* AppDelegate.swift */,
-				D800C39321BEF22B009B70F4 /* ViewController.swift */,
-				D8EB877621C15D7B008960A8 /* Vector.swift */,
-				D800C39521BEF22B009B70F4 /* Main.storyboard */,
-				D8EB877821C166FB008960A8 /* VectorTableViewCell.swift */,
-				D800C39821BEF22C009B70F4 /* Assets.xcassets */,
-				D800C39A21BEF22C009B70F4 /* LaunchScreen.storyboard */,
-				D800C39D21BEF22C009B70F4 /* Info.plist */,
+				65C94EF221C2D33700B6ED2C /* AppDelegate.swift */,
+				65C94F0421C2D38500B6ED2C /* VectorTableViewCell.swift */,
+				65C94F0621C2D3AD00B6ED2C /* Vector.swift */,
+				65C94EF421C2D33700B6ED2C /* ViewController.swift */,
+				65C94EF621C2D33700B6ED2C /* Main.storyboard */,
+				65C94EF921C2D33800B6ED2C /* Assets.xcassets */,
+				65C94EFB21C2D33800B6ED2C /* LaunchScreen.storyboard */,
+				65C94EFE21C2D33800B6ED2C /* Info.plist */,
 			);
-			path = VectorCalc;
+			path = VectorCalculator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D800C38D21BEF22B009B70F4 /* VectorCalc */ = {
+		65C94EEE21C2D33700B6ED2C /* VectorCalculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D800C3A021BEF22C009B70F4 /* Build configuration list for PBXNativeTarget "VectorCalc" */;
+			buildConfigurationList = 65C94F0121C2D33800B6ED2C /* Build configuration list for PBXNativeTarget "VectorCalculator" */;
 			buildPhases = (
-				D800C38A21BEF22B009B70F4 /* Sources */,
-				D800C38B21BEF22B009B70F4 /* Frameworks */,
-				D800C38C21BEF22B009B70F4 /* Resources */,
+				65C94EEB21C2D33700B6ED2C /* Sources */,
+				65C94EEC21C2D33700B6ED2C /* Frameworks */,
+				65C94EED21C2D33700B6ED2C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = VectorCalc;
-			productName = VectorCalc;
-			productReference = D800C38E21BEF22B009B70F4 /* VectorCalc.app */;
+			name = VectorCalculator;
+			productName = VectorCalculator;
+			productReference = 65C94EEF21C2D33700B6ED2C /* VectorCalculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D800C38621BEF22B009B70F4 /* Project object */ = {
+		65C94EE721C2D33700B6ED2C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = SamPoulin;
+				ORGANIZATIONNAME = "Brett Sullivan";
 				TargetAttributes = {
-					D800C38D21BEF22B009B70F4 = {
+					65C94EEE21C2D33700B6ED2C = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = D800C38921BEF22B009B70F4 /* Build configuration list for PBXProject "VectorCalc" */;
+			buildConfigurationList = 65C94EEA21C2D33700B6ED2C /* Build configuration list for PBXProject "VectorCalculator" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = D800C38521BEF22B009B70F4;
-			productRefGroup = D800C38F21BEF22B009B70F4 /* Products */;
+			mainGroup = 65C94EE621C2D33700B6ED2C;
+			productRefGroup = 65C94EF021C2D33700B6ED2C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D800C38D21BEF22B009B70F4 /* VectorCalc */,
+				65C94EEE21C2D33700B6ED2C /* VectorCalculator */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D800C38C21BEF22B009B70F4 /* Resources */ = {
+		65C94EED21C2D33700B6ED2C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D800C39C21BEF22C009B70F4 /* LaunchScreen.storyboard in Resources */,
-				D800C39921BEF22C009B70F4 /* Assets.xcassets in Resources */,
-				D800C39721BEF22B009B70F4 /* Main.storyboard in Resources */,
+				65C94EFD21C2D33800B6ED2C /* LaunchScreen.storyboard in Resources */,
+				65C94EFA21C2D33800B6ED2C /* Assets.xcassets in Resources */,
+				65C94EF821C2D33700B6ED2C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D800C38A21BEF22B009B70F4 /* Sources */ = {
+		65C94EEB21C2D33700B6ED2C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D800C39421BEF22B009B70F4 /* ViewController.swift in Sources */,
-				D8EB877721C15D7B008960A8 /* Vector.swift in Sources */,
-				D8EB877921C166FB008960A8 /* VectorTableViewCell.swift in Sources */,
-				D800C39221BEF22B009B70F4 /* AppDelegate.swift in Sources */,
+				65C94EF521C2D33700B6ED2C /* ViewController.swift in Sources */,
+				65C94F0521C2D38500B6ED2C /* VectorTableViewCell.swift in Sources */,
+				65C94F0721C2D3AD00B6ED2C /* Vector.swift in Sources */,
+				65C94EF321C2D33700B6ED2C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D800C39521BEF22B009B70F4 /* Main.storyboard */ = {
+		65C94EF621C2D33700B6ED2C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D800C39621BEF22B009B70F4 /* Base */,
+				65C94EF721C2D33700B6ED2C /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D800C39A21BEF22C009B70F4 /* LaunchScreen.storyboard */ = {
+		65C94EFB21C2D33800B6ED2C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D800C39B21BEF22C009B70F4 /* Base */,
+				65C94EFC21C2D33800B6ED2C /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D800C39E21BEF22C009B70F4 /* Debug */ = {
+		65C94EFF21C2D33800B6ED2C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -231,7 +231,7 @@
 			};
 			name = Debug;
 		};
-		D800C39F21BEF22C009B70F4 /* Release */ = {
+		65C94F0021C2D33800B6ED2C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -286,36 +286,34 @@
 			};
 			name = Release;
 		};
-		D800C3A121BEF22C009B70F4 /* Debug */ = {
+		65C94F0221C2D33800B6ED2C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8V7C97LRCX;
-				INFOPLIST_FILE = VectorCalc/Info.plist;
+				INFOPLIST_FILE = VectorCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SamPoulin.VectorCalc;
+				PRODUCT_BUNDLE_IDENTIFIER = Sullivan.VectorCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D800C3A221BEF22C009B70F4 /* Release */ = {
+		65C94F0321C2D33800B6ED2C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8V7C97LRCX;
-				INFOPLIST_FILE = VectorCalc/Info.plist;
+				INFOPLIST_FILE = VectorCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SamPoulin.VectorCalc;
+				PRODUCT_BUNDLE_IDENTIFIER = Sullivan.VectorCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -325,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D800C38921BEF22B009B70F4 /* Build configuration list for PBXProject "VectorCalc" */ = {
+		65C94EEA21C2D33700B6ED2C /* Build configuration list for PBXProject "VectorCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D800C39E21BEF22C009B70F4 /* Debug */,
-				D800C39F21BEF22C009B70F4 /* Release */,
+				65C94EFF21C2D33800B6ED2C /* Debug */,
+				65C94F0021C2D33800B6ED2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D800C3A021BEF22C009B70F4 /* Build configuration list for PBXNativeTarget "VectorCalc" */ = {
+		65C94F0121C2D33800B6ED2C /* Build configuration list for PBXNativeTarget "VectorCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D800C3A121BEF22C009B70F4 /* Debug */,
-				D800C3A221BEF22C009B70F4 /* Release */,
+				65C94F0221C2D33800B6ED2C /* Debug */,
+				65C94F0321C2D33800B6ED2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D800C38621BEF22B009B70F4 /* Project object */;
+	rootObject = 65C94EE721C2D33700B6ED2C /* Project object */;
 }

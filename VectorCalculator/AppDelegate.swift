@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  VectorCalc
+//  VectorCalculator
 //
-//  Created by Samuel Poulin on 12/10/18.
-//  Copyright © 2018 SamPoulin. All rights reserved.
+//  Created by Brett Sullivan on 12/13/18.
+//  Copyright © 2018 Brett Sullivan. All rights reserved.
 //
 
 import UIKit
