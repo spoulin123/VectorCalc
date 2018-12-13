@@ -29,10 +29,10 @@ class VectorTableViewCell: UITableViewCell {
     
     func update(with vector: Vector){
         nameLabel?.text = vector.name
-        //xLabel?.text = vector.x
-        //yLabel?.text = vector.y
-        //magLabel?.text = vector.mag
-        //angleLabel?.text = vector.angle
+        xLabel?.text = String(vector.x)
+        yLabel?.text = String(vector.y)
+        magLabel?.text = String(vector.mag)
+        angleLabel?.text = String(vector.angle)
     }
 
 }
