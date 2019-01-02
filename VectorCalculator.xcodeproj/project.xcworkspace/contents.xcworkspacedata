@@ -2,6 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
+<<<<<<< HEAD:VectorCalculator.xcodeproj/project.xcworkspace/contents.xcworkspacedata
       location = "self:VectorCalculator.xcodeproj">
+=======
+      location = "self:">
+>>>>>>> brett:VectorCalc.xcodeproj/project.xcworkspace/contents.xcworkspacedata
    </FileRef>
 </Workspace>
