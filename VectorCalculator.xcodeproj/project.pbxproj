@@ -14,6 +14,7 @@
 		65C94EFD21C2D33800B6ED2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65C94EFB21C2D33800B6ED2C /* LaunchScreen.storyboard */; };
 		65C94F0521C2D38500B6ED2C /* VectorTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C94F0421C2D38500B6ED2C /* VectorTableViewCell.swift */; };
 		65C94F0721C2D3AD00B6ED2C /* Vector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C94F0621C2D3AD00B6ED2C /* Vector.swift */; };
+		D88B387A21DCF5AC00B5A920 /* Interpret.swift in Sources */ = {isa = PBXBuildFile; fileRef = D88B387921DCF5AC00B5A920 /* Interpret.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		65C94EFE21C2D33800B6ED2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65C94F0421C2D38500B6ED2C /* VectorTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VectorTableViewCell.swift; sourceTree = "<group>"; };
 		65C94F0621C2D3AD00B6ED2C /* Vector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vector.swift; sourceTree = "<group>"; };
+		D88B387921DCF5AC00B5A920 /* Interpret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interpret.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				65C94EF221C2D33700B6ED2C /* AppDelegate.swift */,
 				65C94F0421C2D38500B6ED2C /* VectorTableViewCell.swift */,
+				D88B387921DCF5AC00B5A920 /* Interpret.swift */,
 				65C94F0621C2D3AD00B6ED2C /* Vector.swift */,
 				65C94EF421C2D33700B6ED2C /* ViewController.swift */,
 				65C94EF621C2D33700B6ED2C /* Main.storyboard */,
@@ -144,6 +147,7 @@
 				65C94EF521C2D33700B6ED2C /* ViewController.swift in Sources */,
 				65C94F0521C2D38500B6ED2C /* VectorTableViewCell.swift in Sources */,
 				65C94F0721C2D3AD00B6ED2C /* Vector.swift in Sources */,
+				D88B387A21DCF5AC00B5A920 /* Interpret.swift in Sources */,
 				65C94EF321C2D33700B6ED2C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
